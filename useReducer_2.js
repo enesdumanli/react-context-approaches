@@ -43,7 +43,7 @@ function Form() {
     <Panel  title="Welcome">
       <Button >Change Theme</Button>
     </Panel>
-  );
+  ); 
 }
 
 function Panel({ title, children }) {
